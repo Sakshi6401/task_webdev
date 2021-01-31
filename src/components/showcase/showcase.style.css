@@ -7,7 +7,7 @@
     display: block;
 }
 
-p {
+.text {
     font-size: 25px;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;

@@ -3,7 +3,7 @@ import './showcase.style.css';
 
 const Showcase = () => (
     <div className='showcase'>
-        <p>
+        <p className='text'>
             LET'S NOT MAKE THE <br/> DISTANCE THE PROBLEM. <br/>
             PROVIDING YOU WITH <br/> THE BEST SERVICES <br/> AVAILABLE.
         </p>
