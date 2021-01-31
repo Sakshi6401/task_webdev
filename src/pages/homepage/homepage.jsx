@@ -6,6 +6,7 @@ import './homepage.css';
 const HomePage = () => (
     <div className='homepage'>
         <TopDisplay />
+        <hr/>
         <BottomDisplay />
     </div>
 );

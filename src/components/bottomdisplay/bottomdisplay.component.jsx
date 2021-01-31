@@ -4,7 +4,7 @@ import './bottomdisplay.style.css';
 
 const BottomDisplay = () => (
     <div className='bottom-display'>
-        <img src=""/>
+        <img src='/assets/running.jpg' className='main-image' />
         <TextBlock />
     </div>
 )

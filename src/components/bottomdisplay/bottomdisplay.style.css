@@ -1,3 +1,10 @@
-body {
+.bottom-display {
     padding: 30px;
+    display: flex;
+}
+
+.main-image {
+    width: 60%;
+    height: 300px;
+    padding-right: 50px;
 }
