@@ -1,0 +1,15 @@
+.showcase {
+    height: 300px;
+    padding: 10px 30px;
+    background-size: cover;
+    background-image: url('./top.jpg');
+    background-repeat: no-repeat;
+    display: block;
+}
+
+p {
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-style: italic;
+}

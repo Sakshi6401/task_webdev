@@ -1,0 +1,35 @@
+.header {
+  height: 70px;
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-family: 'Courier New', Courier, monospace;
+  padding-right: 200px;
+}
+
+.options {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.option {
+  text-decoration: none;
+  color: black;
+  padding: 10px 15px;
+  cursor: pointer;
+}
+
+.option:hover{
+  font-size: 20px;
+  color: rgba(15, 179, 124, 0.931);
+  transition: font-size 0.1s ease-out;
+}
+
+
